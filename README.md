@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25659361/README.md)
 # Copilot Agent Template
 
 A ready-to-clone workspace template that wires up a full multi-agent development pipeline in GitHub Copilot. Drop the `.github/` folder into any project and get a coordinated set of specialist agents that take a task from first keystroke to committed, documented code.
